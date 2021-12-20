@@ -1,4 +1,6 @@
-### I'm Ryuichi Maeda 
+### I'm Ryuichi Maeda
+- Kyushu University student
+- Major in Electronics and Computer Science.
 <!-- 👋 -->
 
 <!--
