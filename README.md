@@ -2,6 +2,17 @@
 - Kyushu University student
 - Major in Electronics and Computer Science.
 
+### Experience
+
+- Languages
+  - Python, JavaScript, C/C++, PHP, Go, mathematica, MATLAB, Scheme
+
+- Cloud Services
+  - AWS, Heroku
+
+- Others
+  - Docker, MySQL, PostgreSQL, Firebase
+
 ### GitHub Commit
 
 ![Ryuichi Maeda's github stats](https://github-readme-stats.vercel.app/api?username=ryuichi-maeda&count_private=true&show_icons=true&theme=tokyonight)
