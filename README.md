@@ -7,8 +7,8 @@
 
 ### GitHub Commit
 
-![Ryuichi Maeda's github stats](https://github-readme-stats.vercel.app/api?username=ryuichi-maeda&count_private=true&show_icons=true&theme=tokyonight)
-![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuichi-maeda&theme=tokyonight&layout=compact)
+[![Ryuichi Maeda's github stats](https://github-readme-stats.vercel.app/api?username=ryuichi-maeda&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ryuichi-maeda)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuichi-maeda&theme=tokyonight&layout=compact)](https://github.com/ryuichi-maeda)
 
 
 <!-- 👋 -->
