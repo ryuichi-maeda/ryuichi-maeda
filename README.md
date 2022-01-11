@@ -2,10 +2,11 @@
 - Kyushu University student
 - Major in Electronics and Computer Science.
 
+### GitHub Commit
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ryuichi-maeda&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ryuichi-maeda/)
 <!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuichi-maeda&theme=tokyonight&langs_count=5&layout=compact)](https://github.com/ryuichi-maeda/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ryuichi-maeda&theme=tokyonight&layout=compact)](https://github.com/ryuichi-maeda/)
 
 
 <!-- 👋 -->
