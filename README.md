@@ -1,17 +1,9 @@
 ### I'm Ryuichi Maeda
+![](https://komarev.com/ghpvc/?username=ryuichi-maeda&color=orange)
+
 - Kyushu University student
 - Major in Electronics and Computer Science.
 
-### Experience
-
-- Languages
-  - Python, JavaScript, C/C++, PHP, Go, mathematica, MATLAB, Scheme
-
-- Cloud Services
-  - AWS, Heroku
-
-- Others
-  - Docker, MySQL, PostgreSQL, Firebase
 
 ### GitHub Commit
 
