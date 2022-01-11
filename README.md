@@ -1,5 +1,5 @@
-### I'm Ryuichi Maeda
-![](https://komarev.com/ghpvc/?username=ryuichi-maeda&color=orange)
+## I'm Ryuichi Maeda
+[![](https://komarev.com/ghpvc/?username=ryuichi-maeda&color=orange)](https://github.com/ryuichi-maeda)
 
 - Kyushu University student
 - Major in Electronics and Computer Science.
