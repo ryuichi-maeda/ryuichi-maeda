@@ -2,7 +2,7 @@
 [![](https://komarev.com/ghpvc/?username=ryuichi-maeda&color=orange)](https://github.com/ryuichi-maeda)
 
 - Kyushu University student
-- Major in Electronics and Computer Science.
+- Major in Computer Science.
 
 
 ### GitHub Commit
