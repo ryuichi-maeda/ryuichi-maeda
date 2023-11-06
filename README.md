@@ -2,9 +2,11 @@
 
 [![ryuichi-maeda's GitHub | Stats](https://stats.quine.sh/ryuichi-maeda/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ryuichi-maeda)
 
+<!--
 [![ryuichi-maeda's GitHub | Topics Over Time](https://stats.quine.sh/ryuichi-maeda/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ryuichi-maeda)
 
 [![ryuichi-maeda's GitHub | Languages Over Time](https://stats.quine.sh/ryuichi-maeda/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ryuichi-maeda)
+-->
 
 [![](https://komarev.com/ghpvc/?username=ryuichi-maeda&color=orange)](https://github.com/ryuichi-maeda)
 
