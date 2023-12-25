@@ -2,22 +2,8 @@
 
 [![ryuichi-maeda's GitHub | Stats](https://stats.quine.sh/ryuichi-maeda/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ryuichi-maeda)
 
-<!--
-[![ryuichi-maeda's GitHub | Topics Over Time](https://stats.quine.sh/ryuichi-maeda/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ryuichi-maeda)
-
-[![ryuichi-maeda's GitHub | Languages Over Time](https://stats.quine.sh/ryuichi-maeda/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ryuichi-maeda)
--->
+**Homepage Link**: eXJueHU6Ly9kZW4uYnNja2pwei5haXUv (Can you decode this??🤪)
+<!-- key: ryuichi -->
 
 [![](https://komarev.com/ghpvc/?username=ryuichi-maeda&color=orange)](https://github.com/ryuichi-maeda)
 
-<!--
-- Kyushu University student
-- Major in Computer Science.
-
-
-### GitHub Commit
-
-
-[![Ryuichi Maeda's github stats](https://github-readme-stats.vercel.app/api?username=ryuichi-maeda&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ryuichi-maeda)
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuichi-maeda&theme=tokyonight&layout=compact)](https://github.com/ryuichi-maeda)
--->
