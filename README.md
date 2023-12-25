@@ -5,5 +5,10 @@
 **Homepage Link**: eXJueHU6Ly9kZW4uYnNja2pwei5haXUv (Can you decode this??🤪)
 <!-- key: ryuichi -->
 
+**OSS Activities**
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai)
+- [stackql/stackql](https://github.com/stackql/stackql)
+- [irvs/ros2_tms_for_construction](https://github.com/irvs/ros2_tms_for_construction)
+
 [![](https://komarev.com/ghpvc/?username=ryuichi-maeda&color=orange)](https://github.com/ryuichi-maeda)
 
