@@ -13,23 +13,25 @@
 </p>
 
 
+<p align="center">
+  <picture>
+    <!-- GitHubがダークモードの時は暗い背景を表示 -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryuichi-maeda/ryuichi-maeda/output/github-contribution-grid-snake-dark.svg">
+    <!-- GitHubがライトモードの時は明るい背景を表示 -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryuichi-maeda/ryuichi-maeda/output/github-contribution-grid-snake.svg">
+    <!-- フォールバック -->
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ryuichi-maeda/ryuichi-maeda/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
+
+---
 
 ### 💡 About Me
 
-> **Software Engineer**
-> 
 > Welcome to my GitHub profile! Feel free to explore my repositories.
 
 - 💻 **Role:** Software Engineer
 - 📍 **Location:** Japan
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ryuichi-maeda/ryuichi-maeda/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
@@ -39,8 +41,6 @@
 - [stackql/stackql](https://github.com/stackql/stackql)
 - [irvs/ros2_tms_for_construction](https://github.com/irvs/ros2_tms_for_construction)
 -->
-
-<!-- [![](https://komarev.com/ghpvc/?username=ryuichi-maeda&color=orange)](https://github.com/ryuichi-maeda) -->
 
 <p align="center">
   <sub><i>Thanks for stopping by!</i></sub>
