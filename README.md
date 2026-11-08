@@ -7,9 +7,11 @@
   <a href="https://github.com/ryuichi-maeda">
     <img src="https://komarev.com/ghpvc/?username=ryuichi-maeda&color=0969da&labelColor=1f2937&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
-  <a href="https://github.com/ryuichi-maeda?tab=followers">
-    <img src="https://img.shields.io/github/followers/ryuichi-maeda?style=for-the-badge&color=0969da&labelColor=1f2937" alt="Followers" />
-  </a>
+  <!--
+    <a href="https://github.com/ryuichi-maeda?tab=followers">
+      <img src="https://img.shields.io/github/followers/ryuichi-maeda?style=for-the-badge&color=0969da&labelColor=1f2937" alt="Followers" />
+    </a>
+  -->
 </p>
 
 
